@@ -1,1 +1,55 @@
-
+{
+  "1": {
+    "on": true,
+    "transition": 7,
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "cct": 255,
+        "col": [
+          [
+            255,
+            224,
+            160,
+            0
+          ],
+          [
+            255,
+            224,
+            160,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 0,
+        "sx": 7,
+        "ix": 1,
+        "pal": 2,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0
+      }
+    ],
+    "ledmap": 0,
+    "n": "⭐Favorites:🟡WarmWhite"
+  }
+}
